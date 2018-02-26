@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: dbuser
+    password: '{cipher}e30d3168cea33bc161ed1d4420407fdec7966a1777b8751a2d690571f25c032d'
